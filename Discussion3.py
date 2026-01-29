@@ -26,7 +26,7 @@ class Rectangle():
     # Returns a boolean value
 
     # YOUR CODE HERE
-    # testing
+    
 
     
 
