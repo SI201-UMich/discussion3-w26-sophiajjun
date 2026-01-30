@@ -15,8 +15,8 @@ class Rectangle():
 
     # Create the "area_calculator" method
 
-    def area_calculator(self.width, self.height):
-        return float(self.width * height)
+    def area_calculator (self.width, self.height):
+        return float(self.width * self.height)
 
 
 
